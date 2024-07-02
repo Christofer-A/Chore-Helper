@@ -1,1 +1,1 @@
-Important notice: File may not be able to be read without the the output.txt being in the C:/Users/user folder
+Important notice: File may not be able to be read without output.txt being in the C:/Users/user folder
