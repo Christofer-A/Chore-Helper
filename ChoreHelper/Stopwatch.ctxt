@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Stopwatch
+comment1.params=c
+comment1.target=Stopwatch(ChoreComponent)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ Begin()
+comment4.params=
+comment4.target=java.lang.String\ getTime()
+comment5.params=
+comment5.target=void\ Stop()
+comment6.params=
+comment6.target=float\ getSeconds()
+numComments=7

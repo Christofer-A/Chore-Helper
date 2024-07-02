@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SplitList
+comment1.params=n
+comment1.target=SplitList(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=f
+comment3.target=void\ addSplitTime(float)
+comment4.params=
+comment4.target=float\ getAverage()
+numComments=5

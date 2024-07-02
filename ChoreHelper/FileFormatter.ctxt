@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FileFormatter
+comment1.params=arr
+comment1.target=FileFormatter(java.util.ArrayList)
+comment2.params=
+comment2.target=FileFormatter()
+comment3.params=
+comment3.target=void\ write()
+comment4.params=
+comment4.target=java.util.ArrayList\ read()
+numComments=5
