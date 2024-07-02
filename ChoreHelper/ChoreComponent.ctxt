@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=ChoreComponent
-comment1.params=c\ arr
-comment1.target=ChoreComponent(Chore,\ java.util.ArrayList)
-comment2.params=e
-comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
-numComments=3
