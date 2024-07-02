@@ -1,1 +1,1 @@
-Important notice: Program will not run without output.txt being in the C:/Users/user folder. A new output.txt file can be created or the one in this repository can be used as a sample. Additionally, documentation regarding how a File object is created in the FileFormatter class is outdated. 
+Important notice: Program will not run without output.txt being in the C:/Users/user folder. A new output.txt file can be created or the one in this repository can be used as a sample. 
